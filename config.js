@@ -1,0 +1,1 @@
+window.APP_CONFIG = {API_URL: 'https://script.google.com/macros/s/AKfycbxdSNNSNu_e2cJFbIhPcKPpDgYAlTIJtmwNzP7lujfbj0-TPb_yAn1DG08P9wTQXXogLA/exec', APP_NAME: 'BB Styro Sales', FACE_API_JS: 'https://cdn.jsdelivr.net/npm/@vladmandic/face-api@1.7.15/dist/face-api.js', FACE_MODELS: 'https://cdn.jsdelivr.net/npm/@vladmandic/face-api@1.7.15/model'};
